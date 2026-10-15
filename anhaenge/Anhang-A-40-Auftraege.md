@@ -3,11 +3,10 @@
 
 *(je Kapitel eine Gruppe; die Werkzeug-Wortlaute kommen wörtlich aus den Kapitel-Boxen, die äußeren Anführungszeichen sind gestrippt; je Eintrag die Probefrage.)*
 
-**Stand: 38/38**
 
 ### Kapitel 1: Warum alle über KI reden und Sie mitreden können
 
-**[K1]** Der Abrechnungs-Auftrag
+**Der Abrechnungs-Auftrag**
 
 > Erklär mir meine Jahresabrechnung: Was ist eine Nachzahlung, wie ist mein Abschlag gerechnet, und wie kann ich im nächsten Jahr weniger Nachzahlung haben?
 
@@ -15,7 +14,7 @@
 
 *Probefrage: Können Sie mindestens eine Zahl aus der Antwort in Ihrer letzten Abrechnung im Ordner wiederfinden?*
 
-**[K1]** Der Zählerstand-Auftrag
+**Der Zählerstand-Auftrag**
 
 > Ich möchte meinen Zählerstand selbst übermitteln. Sag mir Schritt für Schritt, wo ich das in meinem Kundenkonto mache, und prüfe danach, ob ich ihn richtig eingetragen habe. Ich schreibe dir den Stand und das Datum.
 
@@ -23,7 +22,7 @@
 
 *Probefrage: Woran würden Sie merken, dass der Roboter am Thema vorbeiredet, etwa weil ein Schritt fehlt oder nicht zu Ihrem Bildschirm passt?*
 
-**[K1]** Der kleine Brief-Auftrag
+**Der kleine Brief-Auftrag**
 
 > Schreib zwei freundliche Sätze an meine Nachbarin: Ich bin am Wochenende verreist und möchte sie fragen, ob sie meine Blumen gießen kann.
 
@@ -34,7 +33,7 @@
 
 ### Kapitel 2: Die fünf Dinge, die die Maschine wirklich gut kann
 
-**[K2]** Der Brief-Entwurf
+**Der Brief-Entwurf**
 
 > Schreib mir einen höflichen, aber bestimmten Einspruch an meine Zahnzusatzversicherung. Es geht um die Abrechnung vom 24. November 2026. Die Rechnung für meine Zahnkrone betrug 412,80 Euro, erstattet wurden nur 206,40 Euro. Laut meinem Vertrag, § 4, werden 80 Prozent erstattet, also 330,24 Euro. Bitte nenne im Brief diese Punkte: 1. Rechnungsbetrag und erstatteter Betrag, 2. die Stelle im Vertrag, 3. die Differenz von 123,84 Euro, 4. eine Frist von zwei Wochen für die Nachzahlung. Lass eine Lücke für meine Vertragsnummer. Der Brief soll auf eine Seite passen.
 
@@ -42,7 +41,7 @@
 
 *Probefrage: Was fehlt dem Entwurf noch, damit Sie ihn unterschreiben?*
 
-**[K2]** Die Einladung
+**Die Einladung**
 
 > Schreib eine kurze Einladung an meinen Kaffee-Kreis. Wir sind sechs Damen und kennen uns seit vierzig Jahren. Es ist unser Adventskaffee, am Mittwoch, 16. Dezember, um 15 Uhr bei mir. Der Ton soll herzlich sein, ein bisschen fröhlich, nicht steif. Höchstens sechs Sätze. Erwähne den Apfelkuchen.
 
@@ -50,7 +49,7 @@
 
 *Probefrage: Würden Ihre Gäste erkennen, dass diese Einladung von Ihnen kommt?*
 
-**[K2]** Der Ausflug
+**Der Ausflug**
 
 > Plane mir einen ruhigen Tagesausflug nach Hamburg. Ich bin 72 und komme mit dem Zug um 10 Uhr am Hauptbahnhof an, die Rückfahrt ist um 17 Uhr. Ich gehe gern spazieren, aber auf ebenen Wegen: wenig Treppen, Pausen einplanen, mittags möchte ich in Ruhe sitzen und warm essen. Ich mag Wasser und alte Gebäude, keine Einkaufsstraßen. Schreib den Plan mit Uhrzeiten und ungefähren Fußwegen.
 
@@ -58,7 +57,7 @@
 
 *Probefrage: Welche Stelle im Plan prüfen Sie vor der Fahrt nach, etwa einen Aufzug oder eine Öffnungszeit?*
 
-**[K2]** Das Zusammenfassen
+**Das Zusammenfassen**
 
 > Hier ist ein Brief von meinem Versicherungswerk, vier Seiten lang. Fass ihn für mich in fünf Zeilen zusammen. Ich möchte wissen: Was ändert sich, ab wann, was kostet es mich, und muss ich etwas tun? Wenn ich etwas tun muss, nenne die Frist. Schreib in einfachen Sätzen.
 
@@ -66,7 +65,7 @@
 
 *Probefrage: Finden Sie jede der fünf Zeilen im Original wieder?*
 
-**[K2]** Das Umformulieren
+**Das Umformulieren**
 
 > Hier ist mein Text für eine Weihnachtskarte an meine Tante Gertrud. Sie ist 94 und legt Wert auf Form. Mach den Text kürzer, höchstens fünf Sätze, und etwas förmlicher. Behalte den Satz über die Christrose im Garten, der ist mir wichtig. Die Anrede bleibt ‚Liebe Tante Gertrud‘.
 
@@ -76,7 +75,7 @@
 
 ### Kapitel 3: Wenn die Maschine sich etwas ausdenkt
 
-**[K3]** Der Öffnungszeiten-Auftrag
+**Der Öffnungszeiten-Auftrag**
 
 > Recherchiere die aktuellen Öffnungszeiten des Bürgerbüros von [Wohnort, Stadtteil]. Gib an, aus welcher Quelle die Angaben stammen, und nenne das Datum. Wenn du die Zeiten nicht sicher weißt, sage das ausdrücklich, statt sie zu erraten.
 
@@ -84,7 +83,7 @@
 
 *Probefrage: Rufen Sie die genannte Quelle selbst auf und vergleichen Sie die Zeiten. Stehen sie dort genauso?*
 
-**[K3]** Der Amtsweg-Auftrag
+**Der Amtsweg-Auftrag**
 
 > Mein Personalausweis läuft im [Monat] ab, ich brauche einen neuen. Welche Stelle in [Wohnort] ist dafür zuständig, wie heißt die offizielle Website, und welche Unterlagen muss ich mitbringen? Markiere jede Angabe, bei der du dir nicht sicher bist, mit dem Wort [unsicher].
 
@@ -92,7 +91,7 @@
 
 *Probefrage: Welche Angabe trägt das Wort [unsicher], und wie bestätigen Sie sie, bevor Sie vor der Tür stehen?*
 
-**[K3]** Der Quellen-Abschluss
+**Der Quellen-Abschluss**
 
 > Fasse deine Antwort am Ende noch einmal zusammen und liste alle Quellen darunter: Website, Abschnitt und Datum. Sage mir zum Schluss in einem Satz, was in deiner Antwort sicher belegt ist und was nur wahrscheinlich.
 
@@ -102,7 +101,7 @@
 
 ### Kapitel 4: Briefe, E-Mails und Post in Ruhe formulieren
 
-**[K4]** Der Widerruf
+**Der Widerruf**
 
 > Schreib mir einen Widerruf an einen Verlag. Es geht um ein Abonnement für ein Rätselheft, das ich am 26. November 2026 am Telefon abgeschlossen habe, die Bestätigung kam am 1. Dezember. Laut Vertrag habe ich vierzehn Tage Zeit für den Widerruf. Der Brief soll mit ‚Hiermit widerrufe ich‘ beginnen, ohne Entschuldigung. Bitte um eine schriftliche Bestätigung. Lass eine Lücke für meine Kundennummer.
 
@@ -110,7 +109,7 @@
 
 *Probefrage: Was ändern Sie am Entwurf, bevor Sie ihn unterschreiben?*
 
-**[K4]** Der Einspruch mit Frist
+**Der Einspruch mit Frist**
 
 > Schreib mir einen Einspruch gegen die Nebenkostenabrechnung meiner Hausverwaltung vom 20. November 2026. Die Nachzahlung beträgt 241,30 Euro. Bitte nenne diese Punkte: 1. Für die Gartenpflege werden mir 168,00 Euro berechnet, laut Mietvertrag pflege ich meinen Gartenanteil selbst. 2. Der Wasserverbrauch ist mit 48 Kubikmetern angesetzt, mein Zähler zeigte 31. 3. Ich fordere eine berichtigte Abrechnung bis zum 31. Dezember 2026. Lass eine Lücke für meine Mieternummer.
 
@@ -118,7 +117,7 @@
 
 *Probefrage: Steht die Frist im Entwurf, oder müssen Sie sie ergänzen?*
 
-**[K4]** Der eigene Ton
+**Der eigene Ton**
 
 > So schreibe ich: Ich schreibe kurz. Ich sage das Wichtigste zuerst. Ich bettle nicht, ich bitte. Schreib den folgenden Brief in diesem Ton.
 
@@ -128,7 +127,7 @@
 
 ### Kapitel 5: Die leichten Siege des Alltags
 
-**[K5]** Das Rezept auf Ihre Form
+**Das Rezept auf Ihre Form**
 
 > Rechne dieses Rezept auf meine Küche um. Mengen bitte in Gramm und Milliliter, die Temperatur in Grad Celsius für Umluft. Meine Form ist eine Springform mit 26 Zentimetern, sie fasst 2,3 Liter, nicht vier. Rechne die Mengen passend herunter und runde auf ganze Eier. Buttermilch habe ich nicht, aber Joghurt und Milch. Schreib zuerst die Zutatenliste, dann die Schritte.
 
@@ -136,7 +135,7 @@
 
 *Probefrage: Was in Ihrer Küche weicht vom Standard-Rezept ab?*
 
-**[K5]** Das Gedicht mit den echten Details
+**Das Gedicht mit den echten Details**
 
 > Schreib ein kurzes Gedicht zum 70. Geburtstag meiner Schwester Helga, zwei Strophen mit je vier Zeilen, damit es auf eine Karte passt. Der Ton soll herzlich sein, mit einem Augenzwinkern. Diese drei Dinge sollen vorkommen: Sie hat vierzig Jahre lang einen Blumenladen geführt. Wir gehen seit unserer Kindheit zusammen um den Teich im Stadtpark. In der Familie heißt sie seit ihrem fünften Geburtstag die Zickige, und sie lacht selbst darüber.
 
@@ -144,7 +143,7 @@
 
 *Probefrage: Welches Familien-Wort darf NICHT fehlen?*
 
-**[K5]** Die Anleitung in einfachen Schritten
+**Die Anleitung in einfachen Schritten**
 
 > Erkläre mir in einfachen Schritten, wie ich bei meinem Radiowecker die Uhrzeit neu einstelle. Hersteller und Typ: [vom Schild auf der Unterseite abschreiben]. Höchstens sechs Schritte, jeder in einer Zeile, ohne Fachwörter. Sag bei jedem Schritt dazu, was ich auf der Anzeige sehen müsste.
 
@@ -154,7 +153,7 @@
 
 ### Kapitel 6: Geld: Was Sie der Maschine niemals anvertrauen
 
-**[K6]** Der Lücken-Prüfer
+**Der Lücken-Prüfer**
 
 > Ich schreibe dir einen Brief ab, den ich an eine Firma schicken will. Nenne mir jede Stelle, die ich nicht auf eine Postkarte schreiben würde, die jeder lesen kann: Passwörter, Kontonummern, Vertragsnummern, Gesundheitsangaben mit Namen. Sag mir zu jeder Stelle, ob ich sie weglassen oder durch eine Lücke ersetzen kann.
 
@@ -162,7 +161,7 @@
 
 *Probefrage: Welche der genannten Stellen hätten Sie selbst gefunden, und welche wäre durchgerutscht?*
 
-**[K6]** Der Gegenleser für fremde Post
+**Der Gegenleser für fremde Post**
 
 > Ich schreibe dir eine E-Mail ab, die ich bekommen habe. Den Link darin habe ich nicht geöffnet und schreibe ihn nicht mit ab. Prüfe den Text auf drei Merkmale: Wird Druck gemacht? Wird eine Frist gesetzt? Soll ich auf einen Link klicken oder Daten eingeben? Nenne zu jedem Merkmal die Stelle im Text.
 
@@ -170,7 +169,7 @@
 
 *Probefrage: Welche Mail haben Sie letzten Monat fast geöffnet?*
 
-**[K6]** Die Leerstellen-Methode
+**Die Leerstellen-Methode**
 
 > Schreib mir einen kurzen Begleitbrief für eine Rücksendung an ein Versandhaus. Ich schicke einen Artikel zurück, weil die Größe nicht passt, und bitte um Erstattung des Kaufpreises auf mein Konto. Hier steht meine Kontoverbindung, den Teil setze ich von Hand ein. Lass dafür eine Lücke, und je eine für meine Kundennummer und die Bestellnummer.
 
@@ -180,7 +179,7 @@
 
 ### Kapitel 7: Gesundheit: gute Fragen, klare Grenzen
 
-**[K7]** Der Symptome-Zettel
+**Der Symptome-Zettel**
 
 > Ich habe bald einen Arzttermin. Ich erzähle dir, wie es mir mit meinen Beschwerden geht, so wie es mir einfällt: […]. Ordne das bitte zu einer kurzen Liste, wie ein Arzt sie lesen kann, in der Reihenfolge meines Tages: Morgens, Aufstehen, Gehen, Treppen, Sitzen, Nacht. Schreib bei jedem Punkt dazu, seit wann. Nimm meine Wörter und erfinde nichts dazu. Lass am Ende eine Zeile frei für meine Medikamente, die trage ich von Hand ein.
 
@@ -188,7 +187,7 @@
 
 *Probefrage: Was erfahren Sie zuerst, wenn der Arzt nach Ihrem Tag fragt?*
 
-**[K7]** Der Brief-Übersetzer
+**Der Brief-Übersetzer**
 
 > Das ist ein Abschnitt aus einem Arztbrief. Übersetze ihn bitte in einfache Sprache, Satz für Satz, so dass ich jeden Satz dem Original zuordnen kann. Erkläre danach jedes Fachwort einzeln, in einem Satz. Sag nichts dazu, was nicht im Text steht.
 
@@ -196,7 +195,7 @@
 
 *Probefrage: Welches Wort aus Ihrem letzten Brief war Kauderwelsch?*
 
-**[K7]** Die drei Fragen
+**Die drei Fragen**
 
 > Ich habe bald einen Arzttermin und meistens nur wenige Minuten. Hilf mir, aus meinen Fragen drei zu machen, klar und kurz: eine dazu, was das ist, eine dazu, was hilft, und eine dazu, wie lange es dauert. Hier sind meine Fragen, so wie sie mir einfallen: […] Mach sie kürzer, aber lass sie meine Fragen bleiben. Beantworte sie nicht.
 
@@ -206,7 +205,7 @@
 
 ### Kapitel 8: Unterwegs und mit der Familie
 
-**[K8]** Der Ausflug mit dem Tag-Check
+**Der Ausflug mit dem Tag-Check**
 
 > Plane mir einen ruhigen Tagesausflug nach […], für den […]. Ich bin […] Jahre alt und komme mit dem Zug um […] Uhr an. Die Rückfahrt ist um […] Uhr, ich möchte vor dem Dunkelwerden zu Hause sein. Ich gehe langsam und brauche regelmäßig eine Pause zum Sitzen, Treppen möglichst gar nicht. Gib mir die Stationen mit Aufzug, die ich unterwegs brauche, als Liste am Ende.
 
@@ -214,7 +213,7 @@
 
 *Probefrage: Welchen Teil Ihrer letzten Fahrt hätten Sie vorher prüfen sollen?*
 
-**[K8]** Die Karte in Einfach-Sprache
+**Die Karte in Einfach-Sprache**
 
 > Hilf mir bei einer Karte an […]. Der Anlass ist […]. Wir kennen uns so: […]. Ein Bild soll vorkommen, das wir beide kennen: […]. Nur dieses eine Bild, kein zweites. Höchstens vier Sätze, einfache Wörter, keine Formeln wie ‚in stillem Gedenken‘. Es soll klingen, wie ich spreche.
 
@@ -222,7 +221,7 @@
 
 *Probefrage: Welche Karte schreiben Sie sonst nachträglich, weil die fertige nicht klingt?*
 
-**[K8]** Die Foto-Frage
+**Die Foto-Frage**
 
 > Schreib mir eine kurze Nachricht an meine Schwester. Ich möchte ein altes Foto von uns aus dem Jahr 1971 in unseren Familien-Chat stellen und frage sie vorher, ob ihr das recht ist. Sag dazu, wer den Chat liest und dass das Original bei mir im Album bleibt. Höchstens drei Sätze, herzlich.
 
@@ -232,7 +231,7 @@
 
 ### Kapitel 9: Betrug erkennen, bevor er passiert
 
-**[K9]** Das Codewort
+**Das Codewort**
 
 > Schreib mir eine kurze Nachricht an meine Familie. Ich möchte mit allen ein Codewort vereinbaren, für den Fall, dass jemand am Telefon mit einer vertrauten Stimme um Geld bittet. Das Wort selbst schreibe ich nicht hinein, das vereinbaren wir am Telefon oder am Tisch. Schlag vor, dass wir uns dafür zehn Minuten nehmen. Höchstens fünf Sätze, ruhig, ohne Angst zu machen.
 
@@ -240,7 +239,7 @@
 
 *Probefrage: Was ist Ihr unmöglicher Hamster, und wer kennt ihn außer Ihnen?*
 
-**[K9]** Die drei Schritte
+**Die drei Schritte**
 
 > Schreib mir einen Merkzettel für neben das Telefon. Drei Schritte, jeder in einer Zeile, mit einfachen, großen Wörtern: innehalten, nach dem Codewort fragen, auflegen und unter der gespeicherten Nummer zurückrufen. Darunter ein Satz, den ich sagen kann, bevor ich auflege. Nichts weiter.
 
@@ -248,7 +247,7 @@
 
 *Probefrage: Welcher der drei Schritte fällt Ihnen am schwersten, wenn die Stimme bittet?*
 
-**[K9]** Der Bild-Check
+**Der Bild-Check**
 
 > Ich habe ein Bild bekommen, das angeblich […] zeigt. Das Bild schicke ich dir nicht, ich beschreibe es nur. Nenne mir drei Stellen, auf die ich im Bild achten soll, und sag mir, wo ich nachprüfen kann, ob das wirklich passiert ist. Wenn du es selbst nicht wissen kannst, sag das.
 
@@ -258,19 +257,19 @@
 
 ### Kapitel 10: Was mit Ihren Bildern, Worten und Daten geschieht
 
-**[K10]** Die Spur-Auskunft
+**Die Spur-Auskunft**
 
 > Ich möchte wissen, was du von meinen Gesprächen aufbewahrst. Nenne mir: wie lange du meine Gespräche aufhebst, wer innerhalb der Firma sie lesen kann, und wie ich eine einzelne Unterhaltung aus meiner Liste lösche. Sag mir auch, wo du dir unsicher bist.
 
 *Warum das funktioniert: Die drei Fragen sind dieselben, die Sie am Küchentisch stellen würden, und die Maschine kennt die üblichen Antworten. Sie zeigt Ihnen, wonach Sie suchen müssen und wie die Schalter ungefähr heißen. Ihre Antwort prüfen Sie im Fenster selbst: Die Schalter sitzen dort, wo die Maschine sie beschreibt, und was sie löscht, löschen Sie selbst.*
 
-**[K10]** Der Verlauf-Check
+**Der Verlauf-Check**
 
 > Lies dieses Gespräch von Anfang an. Sag mir in einem Satz, worum es ging. Nenne mir danach jede Stelle, die ich nicht auf eine Postkarte schreiben würde, die jeder lesen kann, damit ich entscheide, ob ich das Gespräch lösche.
 
 *Warum das funktioniert: Die Postkarten-Frage war bisher Ihre Kontrolle über dem Blatt, bevor Sie etwas abschicken. Dieser Auftrag stellt dieselbe Frage hinterher, an ein Gespräch, das schon im Verlauf liegt. Weil die Maschine in der Regel nur das Gespräch sieht, in dem Sie gerade schreiben, öffnen Sie das alte Gespräch und setzen den Auftrag ans Ende. Die Maschine sortiert vor, Sie lesen nach und entscheiden, was gelöscht wird.*
 
-**[K10]** Die Haus-Regeln-Kontrolle
+**Die Haus-Regeln-Kontrolle**
 
 > Ich habe mir drei Regeln aufgeschrieben: 1. Postkarte gilt. 2. Der Verlauf hat eine Frist: […]. 3. Was ich über Menschen schreibe, sage ich ihnen entweder, oder es bleibt bei mir. Lies sie und sag mir zu jeder in einem Satz, wie du mir dabei helfen kannst. Wenn du eine der drei nicht selbst einhalten kannst, sag das ausdrücklich.
 
@@ -280,7 +279,7 @@
 
 ### Kapitel 11: Ihre Rechte kurz und klar (Deutschland, Österreich, Schweiz)
 
-**[K11]** Die Fristen-Notiz
+**Die Fristen-Notiz**
 
 > Für jeden Vertrag schreibe ich drei Daten ins Notizbuch: wann ich ihn abgeschlossen habe, bis wann ich widerrufen kann und bis wann die Gewährleistung läuft. Wenn eine Kündigung dazukommt, schreibe ich das Datum dazu, an dem sie angekommen sein muss. Die Maschine darf mir die Wörter erklären. Die Tage zähle ich selbst, im Kalender.
 
@@ -288,7 +287,7 @@
 
 *Probefrage: Welchen Vertrag haben Sie zuletzt geschlossen, ohne das Widerrufs-Ende zu notieren?*
 
-**[K11]** Das Fach-Wörter-Übersetzen
+**Das Fach-Wörter-Übersetzen**
 
 > Erkläre mir in einfachen Worten, was diese Wörter in einem Vertrag bedeuten: schriftlich, Zugang, Lastschriftmandat. Nenne mir keine Fristen und sag mir nicht, was ich tun soll. Ich will nur die Wörter verstehen.
 
@@ -296,7 +295,7 @@
 
 *Probefrage: Welches Rechts-Wort haben Sie zuletzt beim Lesen übersprungen?*
 
-**[K11]** Der Länder-Check
+**Der Länder-Check**
 
 > Ich habe einen Vertrag mit einer Firma in der Schweiz. Erkläre mir, welche Wörter man dort für Widerruf, Umtausch und Gewährleistung benutzt und was grundsätzlich anders ist als in Deutschland. Fristen schreibe ich mir nicht von dir auf. Die lese ich nach.
 
@@ -306,7 +305,7 @@
 
 ### Kapitel 12: Ihr Tempo ist genau richtig
 
-**[K12]** Die Monats-Runde 
+**Die Monats-Runde **
 >
 > „Der Erste des Monats ist mein Blick-Termin. Hier ist die Liste meiner Gespräche aus diesem Monat, abgeschrieben aus der Spalte am Rand: […]. Hilf mir mit einer kleinen Rückblick-Liste: Welche Fragen habe ich dir diesen Monat gestellt? Welche davon trage ich besser ins Notizbuch als in den Verlauf? Und welche Unterlage brauche ich nächsten Monat, wenn ich dich wieder frage?“
 >
@@ -314,7 +313,7 @@
 >
 > Probefrage: Welches Datum wäre Ihre Viertel-Stunde im Januar?
 
-**[K12]** Der Codewort-Merkzettel 
+**Der Codewort-Merkzettel **
 >
 > „Schreib mir einen Merkzettel für die Codewort-Runde mit meiner Familie. Der Zettel soll drei Zeilen tragen: wie wir das Wort nutzen (am Telefon abfragen, wenn jemand Geld oder Daten will), wie wir es üben (einmal je Treffen, spielerisch), und was wir tun, wenn jemand das Wort nicht nennt. Einfache Wörter, große Buchstaben. Das Wort selbst kommt nicht vor.“
 >
@@ -322,7 +321,7 @@
 >
 > Probefrage: Wer in Ihrer Familie fragt als Nächstes nach dem unmöglichen Hamster?
 
-**[K12]** Der offene Blick
+**Der offene Blick**
 
 > Was ändere ich an meiner Art zu prüfen, wenn die Maschinen besser werden?
 
@@ -330,7 +329,7 @@
 
 *Probefrage: Welche Ihrer Gewohnheiten bleibt, egal wie gut die Maschinen werden?*
 
-**[K12]** Die Ausmal-Zeichnung
+**Die Ausmal-Zeichnung**
 
 > Zeichne ein Ausmalbild für einen Fünfjährigen: ein Dackel mit Kochmütze, der Spaghetti kocht. Einfache Linien, große Flächen, keine Schattierung. Kein Text im Bild.
 
@@ -338,7 +337,7 @@
 
 *Probefrage: Was würde sich Ihr Enkel wünschen?*
 
-**[K12]** Das zweite Blatt
+**Das zweite Blatt**
 
 > Gleiche Zeichnung noch einmal, aber der Dackel trägt jetzt einen Kochtopf als Helm. Alles andere bleibt.
 
